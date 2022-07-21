@@ -1,0 +1,10 @@
+*.pch
+*.ipch
+*.db
+.vs/
+Debug/
+x64/
+Setup/
+FormShow3DOpenCV/x64/
+FormShow3DOpenCV/Debug/
+~*

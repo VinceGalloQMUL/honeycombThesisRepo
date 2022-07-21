@@ -1,0 +1,7 @@
+*.pch
+*.ipch
+*.db
+.vs/
+Debug/
+x64/
+~*
