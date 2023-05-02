@@ -1,0 +1,6 @@
+FormImageCompare use for experiment 4 and 5, that is exposed walls are curved and curved walsl become straight once adjacent cell is built
+Use option "curve" and place two wall ends. Then click built01 to identify the bend centre.
+Thsi marking must be doen in triples.
+1/ early photo isolated wall
+2/ later photo "isolated" wall
+3/ early reference control wall. oposite side of isolated cell, then oposite side of adjacent cell
