@@ -1,8 +1,6 @@
 ######################################################
-#   Production V_tab.r used in chapter 3 of the thesis
+#   Production V_tab.r 
 ######################################################
-#library(ggplot2)
-setwd("d:/Projects/PhD/QMUL/Thesis/Stats")
 source("library/thesis_lib.r")
 
 
